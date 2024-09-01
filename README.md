@@ -1,2 +1,2 @@
 # RL_hw
-rl homework
+Reinforcement Learning homework
